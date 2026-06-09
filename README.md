@@ -65,7 +65,7 @@ https://www.bilibili.com/video/BVxxxxxxx
    复制高密度总结 Prompt
    ```
 
-   ![展示图片1](.\docs\展示图片1.png)
+   ![展示图片1](docs/展示图片1.png)
 
 3. 点击按钮后，脚本会自动执行：
 
@@ -81,7 +81,7 @@ https://www.bilibili.com/video/BVxxxxxxx
 
 4. 出现“已复制到剪贴板”提示后，打开 ChatGPT，将内容粘贴进去即可生成总结。
 
-   ![展示图片2](.\docs\展示图片2.png)
+   ![展示图片2](docs/展示图片2.png)
 
 ## 输出 Prompt 包含内容
 
